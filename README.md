@@ -1,6 +1,6 @@
 # Olá! Eu sou o Feres Wallacy 👋
 
-🎓 Estudante de [sua área/interesse]  
+🎓 Estudante de javascript  
 💻 Aprendendo sobre programação, IA e desenvolvimento web  
 🚀 Em busca de novos projetos e desafios
 
