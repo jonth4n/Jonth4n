@@ -10,7 +10,7 @@
 ...
 
 ## 📈 Minhas estatísticas:
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=jonth4n&show_icons=true&theme=radical)
 
 ## 📫 Como me encontrar:
 - [instagram](https://www.instagram.com/jonathan_prog?igsh=MWFsaHB0b2hpejJuaQ==)
