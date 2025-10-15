@@ -25,8 +25,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wallacyferes-7023&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wallacyferes-7023&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jonth4n3&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonth4n&layout=compact&theme=radical)
 
 ---
 
