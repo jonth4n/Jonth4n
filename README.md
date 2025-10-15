@@ -25,13 +25,13 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fereswallacy&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fereswallacy&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wallacyferes-7023&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wallacyferes-7023&layout=compact&theme=radical)
 
 ---
 
 ## 🌍 Onde me encontrar
-📸 [Instagram](https://www.instagram.com/jonathan_prog?igsh=MWFsaHB0b2hpejJuaQ==)  
+📸 [Instagram](https://www.instagram.com/entre.o.silencio?igsh=MWFsaHB0b2hpejJuaQ==)  
 💼 *Portfólio em breve!*  
 
 ---
