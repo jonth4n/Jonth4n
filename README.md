@@ -1,16 +1,39 @@
-# Olá! Eu sou o Feres Wallacy 👋
+# 👋 Olá, eu sou o Feres Wallacy  
 
-🎓 Estudante de javascript  
-💻 Aprendendo sobre programação, IA e desenvolvimento web  
-🚀 Em busca de novos projetos e desafios
+💻 Desenvolvedor iniciante apaixonado por tecnologia, criatividade e desafios.  
+🎓 Estudando **JavaScript**, **desenvolvimento web** e **inteligência artificial**.  
+🚀 Buscando sempre aprender mais e criar projetos que inspirem outras pessoas.  
 
-## 🔧 Tecnologias que uso:
+---
+
+## 🧠 Sobre mim
+- 🌱 Atualmente focado em **HTML, CSS, JS e Python**.  
+- 🤖 Interessado em unir **programação + IA + design**.  
+- 🧩 Gosto de entender como as coisas funcionam e transformar ideias em código.  
+- 💬 Aberto a colaborações e novos aprendizados!  
+
+---
+
+## 🧰 Tecnologias que uso
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-...
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
-## 📈 Minhas estatísticas:
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=jonth4n&show_icons=true&theme=radical)
+---
 
-## 📫 Como me encontrar:
-- [instagram](https://www.instagram.com/jonathan_prog?igsh=MWFsaHB0b2hpejJuaQ==)
+## 📊 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fereswallacy&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fereswallacy&layout=compact&theme=radical)
+
+---
+
+## 🌍 Onde me encontrar
+📸 [Instagram](https://www.instagram.com/jonathan_prog?igsh=MWFsaHB0b2hpejJuaQ==)  
+💼 *Portfólio em breve!*  
+
+---
+
+✨ *“Programar é transformar pensamentos em algo que o mundo pode ver.”*
