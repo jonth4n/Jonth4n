@@ -1,38 +1,42 @@
-# 👋 Olá, eu sou o Polar!  
+# 👋 Olá! Eu sou o Polaroid
 
-💻 Desenvolvedor iniciante apaixonado por tecnologia, criatividade e desafios.  
-🎓 Estudando **JavaScript**, **desenvolvimento web** e **inteligência artificial**.  
-🚀 Buscando sempre aprender mais e criar projetos que inspirem outras pessoas.  
+🎨 **Designer & Front-end Developer em formação**
 
----
+Gosto de transformar ideias em interfaces bonitas, funcionais e fáceis de usar.
 
-## 🧠 Sobre mim
-- 🌱 Atualmente focado em **HTML, CSS, JS e Python**.  
-- 🤖 Interessado em unir **programação + IA + design**.  
-- 🧩 Gosto de entender como as coisas funcionam e transformar ideias em código.  
-- 💬 Aberto a colaborações e novos aprendizados!  
+Atualmente estou focado em aprender **desenvolvimento Front-end**, construindo projetos e aprimorando meus conhecimentos em desenvolvimento web.
 
----
+### 🛠️ Tecnologias
 
-## 🧰 Tecnologias que uso
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Affinity](https://pt.wikipedia.org/wiki/Ficheiro:Affinity_%28App%29_Logo.svg)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 
----
+### 🎨 Design
 
-## 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=jonth4n&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=jonth4n&layout=compact&theme=radical)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge\&logo=figma\&logoColor=white)
+![Affinity](https://img.shields.io/badge/Affinity-222222?style=for-the-badge\&logo=affinity\&logoColor=white)
 
----
+### 📚 Atualmente estudando
 
-## 🌍 Onde me encontrar
-📸 [Instagram](https://www.instagram.com/entre.o.silencio?igsh=MWFsaHB0b2hpejJuaQ==)  
-💼 *Portfólio em breve!*  
+* 🌐 HTML & CSS
+* ⚡ JavaScript
+* 🧩 Git & GitHub
+* ⚛️ React
+* 🎨 UI/UX Design
+
+### 🚀 Objetivo
+
+Construir interfaces cada vez melhores, unir **design + programação** e transformar ideias em projetos reais.
 
 ---
 
-✨ *“Programar é transformar pensamentos em algo que o mundo pode ver.”*
+### 📫 Onde me encontrar
+
+🎨 **Behance:** [meu portfólio](SEU_LINK_AQUI)
+
+🌐 **Portfólio:** [meu site](SEU_LINK_AQUI)
+
+📸 **Instagram:** [@SEU_USUARIO](SEU_LINK_AQUI)
