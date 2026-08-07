@@ -35,8 +35,6 @@ Construir interfaces cada vez melhores, unir **design + programação** e transf
 
 ### 📫 Onde me encontrar
 
-🎨 **Behance:** [meu portfólio](SEU_LINK_AQUI)
+🎨 **Behance:** [meu portfólio](https://www.behance.net/fereswallacy/projects)
 
-🌐 **Portfólio:** [meu site](SEU_LINK_AQUI)
-
-📸 **Instagram:** [@SEU_USUARIO](SEU_LINK_AQUI)
+📸 **Instagram:** [@SEU_USUARIO](https://www.behance.net/fereswallacy/projects)
