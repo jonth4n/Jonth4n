@@ -37,4 +37,4 @@ Construir interfaces cada vez melhores, unir **design + programação** e transf
 
 🎨 **Behance:** [meu portfólio](https://www.behance.net/fereswallacy/projects)
 
-📸 **Instagram:** [@polar.wf]((https://www.instagram.com/polar.wf/))
+📸 **Instagram:** [@polar.wf](https://www.instagram.com/polar.wf/)
